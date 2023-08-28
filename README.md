@@ -10,7 +10,7 @@ Instalacion del modulo:
 
 Uso del modulo:  
 ```js
-const paketin=require('aphelios-package');
+const apheliospackage=require('aphelios-package');
 
-let frase=aphelios-package.obtieneFrase(n);   /* Donde n es un numero del 0 al 2*/
+let frase=apheliospackage.obtieneFrase(n);   /* Donde n es un numero del 0 al 2*/
 ```

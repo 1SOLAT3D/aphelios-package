@@ -1,4 +1,4 @@
-let frases=[ "Frase 1", "Frase 2", "Frase 3" ]
+let frases=[ "Frase 1: Hola", "Frase 2: Como estás? :3", "Frase 3: Adios <3" ]
 
 function obtieneFrase(indice) {
     return frases(indice);
